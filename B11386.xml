@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The metamorphosis of tabacco</title>
+            <author>Beaumont, John, Sir, 1583-1627.</author>
+         </titleStmt>
+         <extent>Approx. 70KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11386</idno><idno type="EEBO-CITATION">99837051</idno>
+  <idno type="VID">176962</idno>
+  <idno type="EEBO-PROQUEST">2240932973</idno>
+  <idno type="STC">STC 1695</idno>
+  <idno type="STC">ESTC S101235</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99837051e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176962)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 734:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The metamorphosis of tabacco</title>
+                  <author>Beaumont, John, Sir, 1583-1627.</author>
+               </titleStmt>
+               <extent>[44] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted [by Felix Kingston] for Iohn Flasket, and are to be sold at his shop in Paules Church-yard at the signe of the black Beare,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1602.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Sir John Beaumont.</note>
+                  <note>In verse.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-E⁴ F² .</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tobacco --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>David Tomkins </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>David Tomkins</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176962:1"/>
+            <pb facs="tcp:176962:1"/>
+            <p>THE METAMOR<g ref="char:EOLhyphen"/>PHOSIS OF TABACCO.</p>
+            <p>Lusimus Octaui &amp;c.</p>
+            <figure>
+               <head>PARNASSO ET APOLLINE DIGNA</head>
+               <figDesc>Oval device of the two summits of Parnassus (McKerrow 328).</figDesc>
+            </figure>
+            <p>AT LONDON Imprinted for Iohn Flasket, and are to be sold at his shop in Paules Church-yard at the signe of the black Beare. 1602.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176962:2"/>
+            <pb facs="tcp:176962:2"/>
+            <head>
+               <hi>Ad mare riuuli.</hi> TO MY LOVING FRIEND MASTER MICHAEL DRAYTON.</head>
+            <lg>
+               <l>THe tender labour of my wearie pen,</l>
+               <l>And doubtfull triall of my first-borne rimes,</l>
+               <l>Loaths to adorne the triumphs of those men,</l>
+               <l>Which hold the raines of fortune, and the times:</l>
+               <l>Only to thee, which art with ioy possest</l>
+               <l>Of the faire hill, where troupes of Poets band,</l>
+               <l>Where thou enthron'd with Laurell garlands blest,</l>
+               <l>Maist lift me vp with thy propitious hand;</l>
+               <l>I send this poëme, which for nought doth care,</l>
+               <l>But words for words, and loue for loue to share.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>—nam{que} tu solebas</hi>
+               </l>
+               <l>
+                  <hi>Meas esse aliquid putare nugas.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poems">
+            <pb facs="tcp:176962:3"/>
+            <pb facs="tcp:176962:3"/>
+            <head>IN LAVDEM AVTHORIS</head>
+            <div type="sonnet">
+               <l>GRaunt me smooth vtt'rance Muses to reherse</l>
+               <l>The pleasing smoothnesse of thy worthy verse:</l>
+               <l>If there be words fram'd by admired wits</l>
+               <l>To sing thy praise, those words my verse befits,</l>
+               <l>But such are scant, and there's not one remaines</l>
+               <l>Can giue thee due, none worth enough containes.</l>
+               <l>To sing thy praise in an vp-raised straine,</l>
+               <l>And giue desert to thy admired paine:</l>
+               <l>Feare not the censure of each babbling tongue,</l>
+               <l>They care not whom they pleasure, whom they wrong:</l>
+               <l>Respect it not if fooles thy Muse miscall,</l>
+               <l>Thy paine, her worth deserues applause of all:</l>
+               <l>In whose adoring if my pen offends,</l>
+               <l>My heart my pens defaults will make amends.</l>
+               <closer>
+                  <signed>Z.D.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>SEe how the chatt'ring throngs of Poets vaine</l>
+               <l>Besiege the paths vnto the Muses cell:</l>
+               <l>See how they pant, and beate with fruitlesse paine</l>
+               <l>The steepie traces to the learned well:</l>
+               <l>Securely thou their vaine assaults discount,</l>
+               <l>Thou, whom <hi>Apollo</hi> by the hand hath guided</l>
+               <l>A new-found passage to the horned mount,</l>
+               <l>And from the rout vnhallowed hath deuided,</l>
+               <l>And taught thee raise thy soring Muse on wing,</l>
+               <l>And thy triumphant name in learned eares to ring.</l>
+               <l>There didst thou gather on <hi>Parnassus</hi> clift</l>
+               <l>This pretious herbe, <hi>Tabacco</hi> most diuine,</l>
+               <pb facs="tcp:176962:4"/>
+               <l>Then which nere <hi>Greece,</hi> nere <hi>Italy</hi> did list</l>
+               <l>A flower more fragrant to the Muses shrine:</l>
+               <l>A purer sacrifice did nere adorne</l>
+               <l>
+                  <hi>Apolloes</hi> altars, then this <hi>Indian</hi> fire,</l>
+               <l>The pipe, thy head: the flame to make it burne,</l>
+               <l>The furie, which the Muses doe inspire:</l>
+               <l>O sacred smoke, that doth from hence arise,</l>
+               <l>The authors winged praise, which beates vpon the skies.</l>
+               <closer>
+                  <signed>W.B.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>WHom <hi>Helicon,</hi> and <hi>Tempe</hi> doe adorne</l>
+               <l>With sugred gifts of diuine poetrie,</l>
+               <l>Let no detracting <hi>Zoilus</hi> him scorne,</l>
+               <l>Thinking thereby to cure his maladie:</l>
+               <l>For he that once doth <hi>Homers</hi> pen dispraise,</l>
+               <l>Cannot himselfe to Laureats honour raise.</l>
+               <l>Then thou, that art the author of this booke,</l>
+               <l>Send forth that sacred fume from out thy braine,</l>
+               <l>That thereon well-disposed wits may looke,</l>
+               <l>And say, Giue me <hi>Tabacco</hi> once againe:</l>
+               <l>For <hi>Castile</hi> nere did such a pipe afford</l>
+               <l>Of <hi>Trinidade</hi> upon mine honest word.</l>
+               <closer>
+                  <signed>H.H.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>IF that the Bee, whose winter paines are rest,</l>
+               <l>For gath'ring hony in the fruitfull spring,</l>
+               <l>And making choise of eu'ry flowre the best,</l>
+               <l>That to her hiue she may the sweetnesse bring,</l>
+               <l>Doth to her selfe deserue so great a praise,</l>
+               <l>What may be his, whose whole yeares worst spent howe<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>For recreation on some idle daies,</l>
+               <l>Hath suckt such hony from an <hi>Indian</hi> flower?</l>
+               <pb facs="tcp:176962:4"/>
+               <l>What may be his, whose yonger yeares are such?</l>
+               <l>What may be his, whose first fruits are so faire?</l>
+               <l>What may be his, I cannot say too much,</l>
+               <l>Nay what is his to giue I doe despaire:</l>
+               <l>As one too weake to giue them their desart,</l>
+               <l>Yet rather chuse my selfe to take a maime,</l>
+               <l>Then for to faile to shew a louing hart</l>
+               <l>Vnto my friend to recompence his paine.</l>
+               <closer>
+                  <signed>I. A.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>WHat my poore Muse can doe, she vowes it thine:</l>
+               <l>Black set to white makes it farre cleerer shine:</l>
+               <l>Thus like a faithfull friend she first assaies</l>
+               <l>With her owne shame to purchase thee the praise:</l>
+               <l>And yet if enuie seeke thy worth to blot,</l>
+               <l>(As what deserts be they she staineth not)</l>
+               <l>Through truer zeale she plaies this second part,</l>
+               <l>The spite, that's aim'd at thee, comes through her hart.</l>
+               <closer>
+                  <signed>N.P.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>SOmetimes all man, that hath vs'd soule and breath,</l>
+               <l>Must print his heele on the black way of Death:</l>
+               <l>But this small poeme, though the least of manie,</l>
+               <l>Shall liue like Soules, though natures worst gifts die:</l>
+               <l>Till all the compounds weare their fierie sheete,</l>
+               <l>Not till all Death shall this slight storie fleete.</l>
+               <closer>
+                  <signed>M. G.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <head>To the white Reader.</head>
+               <l>TAke vp these lines Tabacco-like vnto thy braine,</l>
+               <l>And that diuinely toucht, puffe out the smoke againe.</l>
+               <closer>
+                  <signed>B. H.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:176962:5"/>
+               <l>MY new-borne Muse assaies her <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ender wing,</l>
+               <l>And where she should crie is inforst to sing:</l>
+               <l>Her children prophesie thy pleasing rime</l>
+               <l>Shall neuer be a dish for hungrie time:</l>
+               <l>Yet be regardlesse what those verses say,</l>
+               <l>Whose infant mother was but borne to day.</l>
+               <closer>
+                  <signed>F.B.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>I Doe inuoke none but thy selfe to praise thee,</l>
+               <l>For there's no other Muse so high can raise thee;</l>
+               <l>Thou art my Muse, I can thy praises tell,</l>
+               <l>My Muse hath tasted of the Muses well.</l>
+               <closer>
+                  <signed>F.R.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>THe tender plant, which goodly fruit hath bore,</l>
+               <l>Being growne doth promise farre more beautious store:</l>
+               <l>Seeing thy youths prime a worthie worke hath dight,</l>
+               <l>What shall thy riper Muse produce to light?</l>
+               <l>
+                  <hi>Tabaccoes</hi> spring, transforming, soueraigntie</l>
+               <l>Set'st forth with truth, fictions, Philosophie,</l>
+               <l>Merits enroulement with <hi>Moeouian</hi> quill</l>
+               <l>Thy wit, zeale, labours, and thy learned skill.</l>
+               <l>
+                  <hi>Doctrina, ingenio, studijs, pietate, labore,</hi>
+               </l>
+               <l>
+                  <hi>Exupera, polle, profice, cresce, vige.</hi>
+               </l>
+               <closer>
+                  <signed>I.P.</signed>
+               </closer>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:176962:5"/>
+            <head>THE METAMORPHO<g ref="char:EOLhyphen"/>SIS OF TABACCO.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">I</seg> Sing the loues of the superiour powers,</l>
+               <l>With the faire mother of all fra<g ref="char:EOLhyphen"/>grant flowers:</l>
+               <l>From which first loue a glorious Simple springs,</l>
+               <l>Belou'd of heau'nly Gods, and earthly Kings.</l>
+               <l>Let others in their wanton verses chaunt</l>
+               <l>A beautious face that doth their senses daunt,</l>
+               <l>And on their Muses wings lift to the skie</l>
+               <l>The radiant beames of an inchaunting eye.</l>
+               <l>Me let the sound of great <hi>Tabaccoes</hi> praise</l>
+               <l>A pitch aboue those loue-sicke Poets raise:</l>
+               <l>Let me adore with my thrice-happie pen</l>
+               <l>The sweete and sole delight of mortall men,</l>
+               <l>The <hi>Cornu-copia</hi> of all earthly pleasure,</l>
+               <l>Where bank-rupt Nature hath consum'd her treasure,</l>
+               <l>A worthie plant springing from <hi>Floraes</hi> hand,</l>
+               <l>The blessed ofspring of an vncouth land.</l>
+               <l>Breath-giuing herbe, none other I inuoke</l>
+               <l>To helpe me paint the praise of sugred smoke:</l>
+               <l>Not that corrupted artificiall drug,</l>
+               <l>Which euery Gull as his owne soule doth hug,</l>
+               <pb facs="tcp:176962:6"/>
+               <l>And in the sweete composture of a docke</l>
+               <l>Drinkes to his Ladies dog, and Mistresse smocke,</l>
+               <l>Whose best conceits are broacht of bastard fume,</l>
+               <l>Whose wittie salt depends on the salt rheume,</l>
+               <l>Which first like Vapours doe ascend on high,</l>
+               <l>But quickly vanish ere they touch the skie,</l>
+               <l>Which like to Meteors for a while amaze</l>
+               <l>The simple soules which wondring stand at gaze:</l>
+               <l>But being knowne from whence they first were fir'd</l>
+               <l>Are counted base, and cease to be admir'd.</l>
+               <l>Auant base Hypocrite, I call not thee,</l>
+               <l>But thou great God of Indian melodie,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Caribes</hi> be sa<g ref="char:EOLhyphen"/>uage people of America.</note>Which at the <hi>Caribes</hi> banquet gouern'st all,</l>
+               <l>And gently rul'st the sturdiest <hi>Caniball:</hi>
+               </l>
+               <l>Which at their bloodie feasts dost crowned sit,</l>
+               <l>And smok'st their barking iawes at eu'ry bit:</l>
+               <l>Which lead'st the Circle of a sauage round</l>
+               <l>With iarring songs, and homely musicks sound:</l>
+               <l>Which to fond mirth their cruell minds dost frame,</l>
+               <l>And after with a pleasing sleepe dost tame:</l>
+               <l>By whom the <hi>Indian</hi> Priests inspired be,</l>
+               <l>When they presage in barbrous Poetrie:</l>
+               <l>Infume my braine, make my soules powers subtile,</l>
+               <l>Giue nimble cadence to my harsher stile:</l>
+               <l>Inspire me with thy flame, which doth excell</l>
+               <l>The purest streames of the <hi>Castalian</hi> well,</l>
+               <l>That I on thy ascensiue wings may flie</l>
+               <l>By thine ethereall vapours borne on high,</l>
+               <l>And with thy feathers added to my quill</l>
+               <l>May pitch thy tents on the <hi>Parnassian</hi> hill,</l>
+               <l>Teach me what power thee on earth did place,</l>
+               <l>What God was bounteous to the humane race,</l>
+               <pb facs="tcp:176962:6"/>
+               <l>On what occasion, and by whom it stood,</l>
+               <l>That the blest world receiu'd so great a good.</l>
+            </lg>
+            <lg>
+               <l>Before the earth and heau'n were create,</l>
+               <l>When the rude<note n="*" place="margin">This Chaos ancients faine to be a disor<g ref="char:EOLhyphen"/>dred masse, out of which the world was made.</note>
+                  <hi>Chaos</hi> lay disconsolate,</l>
+               <l>When this great All, and wondrous worke we see</l>
+               <l>Had neither forme, nor part, nor qualitie,</l>
+               <l>Blind Nature did her<note n="*" place="margin">Some Philo<g ref="char:EOLhyphen"/>sophers fained that the world was composed <hi>ex Atomis,</hi> of little motes gathered to<g ref="char:EOLhyphen"/>gether.</note>
+                  <hi>Atomi</hi> disperse</l>
+               <l>Ouer the large confused vniuerse,</l>
+               <l>And heau'nly powers all out of order plac't,</l>
+               <l>Were buried in the bowels of the Vast.</l>
+               <l>Then did these seedes, which yet vnpolisht were,</l>
+               <l>Wage warre against the seedes of single-beere,</l>
+               <l>And smotherd in that topsi-turuie trance,</l>
+               <l>Nourisht some smacke of mirth and iouisance:</l>
+               <l>But when this massie lumpe had chang'd her face,</l>
+               <l>And eu'ry thing possest his proper place,</l>
+               <l>Yet did this plant in darke obliuion lurke,</l>
+               <l>Small trauaile could not bring forth such a worke:</l>
+               <l>(Like to <hi>Alcmenaes</hi> sonne the God of might,</l>
+               <l>Whom to beget <hi>Ioue</hi> made a treble night)</l>
+               <l>Till wise <hi>Prometheus,</hi> which compos'd a creature</l>
+               <l>Excelling all the world in forme and feature,</l>
+               <l>When he that rare immortall worke had done,</l>
+               <l>Stole fire from the bright chariot of the Sunne:</l>
+               <l>Which farre-fetcht fire had seru'd him to no end,</l>
+               <l>But that the Earth her chiefest powers did lend:</l>
+               <l>For seeing how great <hi>Phoebus</hi> was beguil'd</l>
+               <l>To make a God of her beloued child,</l>
+               <l>And alwaies enuying at the Gods aboue,</l>
+               <l>(As her<note n="*" place="margin">The rebel<g ref="char:EOLhyphen"/>lious Giants were fained to haue Viperean or snaky feete.</note> Viperean brood of Giants proue:</l>
+               <l>And totall ruine of her stubborne race,</l>
+               <l>For whom in<note n="*" place="margin">At the gene<g ref="char:EOLhyphen"/>rall flood.</note> teares she washt her watrie face)</l>
+               <pb facs="tcp:176962:7"/>
+               <l>She call'd her Herald-winds, and charg'd them all,</l>
+               <l>That they a councell of her subiects call:</l>
+               <l>Out goes her Purseuant the blustring gale,</l>
+               <l>And summons eu'ry hill, and euery dale;</l>
+               <l>Curles eu'ry riuer with a sliding touch</l>
+               <l>From <hi>Titans</hi> rising to his Westerne couch,</l>
+               <l>And with the whissing Trumpet it doth beare</l>
+               <l>Commaunds each earthly subiect to appeare,</l>
+               <l>And on a high Embassage doth repaire</l>
+               <l>To Earths three sisters, Water, Fire, and Aire:</l>
+               <l>(These foure are ioynt copartners, and coheires</l>
+               <l>Of all that lies below the starrie spheres:</l>
+               <l>Who for their kingdomes bounds haue been at ods,</l>
+               <l>But now they by the sentence of the Gods,</l>
+               <l>And their dread vmpires, Hot, Drie, Moist, and Cold</l>
+               <l>In common, and without diuision hold)</l>
+               <l>The day was comen, when on a stately pile</l>
+               <l>Foure seates were plac't on the Americk Ile,</l>
+               <l>Where these great Princes and their portly traines</l>
+               <l>Made enterview on the<note n="*" place="margin">Atlantis (the Iland which <hi>Plato</hi> mentiōs) some suppose to be America.</note>
+                  <hi>Atlantick</hi> plaines.</l>
+            </lg>
+            <lg>
+               <l>After<note n="*" place="margin">The earth.</note>
+                  <hi>Pandora</hi> had made euident</l>
+               <l>The cause of this so sudden Parlement,</l>
+               <l>Tearing her flowrie locks, and furrowed face,</l>
+               <l>She gan lament the poore <hi>Prometheus</hi> case.</l>
+               <l>Stand out (quoth she) thou that art thus distrest,</l>
+               <l>Declare thy case, for here thou maist be blest.</l>
+               <l>Then stept out he as a condemned man</l>
+               <l>Clothed in blacke, and thus his speech began.</l>
+               <l>Know most dread Soueraignes of the lower globe,</l>
+               <l>I am a dead man, and this guiltie robe</l>
+               <l>Shewes that by colour of the Gods contemn'd</l>
+               <l>I to a Vulturs mercie am condemn'd,</l>
+               <pb facs="tcp:176962:7"/>
+               <l>On <hi>Caucasus</hi> amid the <hi>Scythian</hi> groue,</l>
+               <l>By the fear'd sentence of almightie <hi>Ioue,</hi>
+               </l>
+               <l>There to be tide in euerlasting chaines,</l>
+               <l>Plung'd in the horrour of eternall paines:</l>
+               <l>Yet this torments me not, this must be borne,</l>
+               <l>(And patience comes perforce to men forlorne)</l>
+               <l>But that my worke which I haue erst begun,</l>
+               <l>For all my labour should remaine vndone,</l>
+               <l>That's my vexation, that's my only griefe,</l>
+               <l>And only rests in you to giue reliefe:</l>
+               <l>For <hi>Ioue</hi> enuies the beautie of the frame,</l>
+               <l>And seekes all meanes how to deface the same,</l>
+               <l>Looking on me with a suspitious eye,</l>
+               <l>As a corriuall of his dignitie;</l>
+               <l>When he may well remember (if he please)</l>
+               <l>How little I deserue such lookes as these,</l>
+               <l>When I with counsell of an aged head</l>
+               <l>Did stay his youthfull thoughts from <hi>Thetis</hi> bed,</l>
+               <l>And told him there he should beget a sonne</l>
+               <l>Should him depose, as he before had done</l>
+               <l>His father <hi>Saturne:</hi> then he thankt me faire,</l>
+               <l>(But words are quickly turn'd to fleeting aire)</l>
+               <l>Now hates he me, and doth my worke detest,</l>
+               <l>Which must vnlesse you helpe vnperfect rest,</l>
+               <l>For all my sharpe inuentions cannot find</l>
+               <l>How life vnto this trunke may be combin'd.</l>
+               <l>Here grandame<note n="*" place="margin">The earth.</note>
+                  <hi>Ops</hi> her grieued head did shake,</l>
+               <l>And made the massie earths foundations quake,</l>
+               <l>Then gusht cleere fountaines from her hollow eyes,</l>
+               <l>(Floods from the earths strange motions often rise)</l>
+               <l>And at the last her lips did part in two,</l>
+               <l>(As after Earth-quakes they are wont to doe)</l>
+               <pb facs="tcp:176962:8"/>
+               <l>Is't not enough (quoth she) that tyrant <hi>Ioue</hi>
+               </l>
+               <l>Hath my sonne <hi>Saturne</hi> from his kingdome droue?</l>
+               <l>And me his mother hath confin'd below,</l>
+               <l>Because I wept as partner of his woe?</l>
+               <l>Is't not enough my middle part doth frie,</l>
+               <l>While head and feete benumd with cold doth lie?</l>
+               <l>That alwaies halfe my Realme the Sunne doth lack,</l>
+               <l>And for his absence mourne in gloomie black?</l>
+               <l>Or that my louing subiects neuer see,</l>
+               <l>But halfe the heauen wheresoere they be?</l>
+               <l>Is not all this enough, and more then this</l>
+               <l>To be secluded from all heau'nly blisse?</l>
+               <l>Bound in a dungeon, vs'd as though I were</l>
+               <l>A beast ordain'd laborious waights to beare?</l>
+               <l>Each massie thing, and the worlds waightiest part</l>
+               <l>Pressing vnto my center, to my hart,</l>
+               <l>Where he hath made huge caues, &amp; darksome holes,</l>
+               <l>Places of torture for offending soules,</l>
+               <l>Whose howling yells, cries, curses, grones and teares</l>
+               <l>Are pois'ned obiects to mine eyes and eares:</l>
+               <l>And is not this enough, but must he still</l>
+               <l>Crosse the good purpose of my harmlesse will?</l>
+               <l>Hindring the proiect of our gen'rall care,</l>
+               <l>Our sonne whose wished fruite we hope to share,</l>
+               <l>Nor shall too sweete an expectation mocke</l>
+               <l>Vs happie beldames of a blessed stocke:</l>
+               <l>Only it resteth that we now deuise</l>
+               <l>To seate our darling in the starrie skies,</l>
+               <l>Which purpose that we to effect may bring,</l>
+               <l>A plant shall from my wrinkled forehead spring,</l>
+               <l>And eu'ry Ladie shall that herbe endow</l>
+               <l>With the best gemmes that deck her glorious brow,</l>
+               <pb facs="tcp:176962:8"/>
+               <l>Which once inflam'd with the stolne heau'nly fire,</l>
+               <l>Shall breath into this liuelesse corse inspire.</l>
+               <l>Scarse had she spoke, but by vnite consent</l>
+               <l>It was allowed by eu'ry element,</l>
+               <l>Each mountaine nodded, and each riuer sleeke</l>
+               <l>Approu'd the sentence with a dimpled cheeke,</l>
+               <l>And eu'ry thing in dauncing measure sprung,</l>
+               <l>As erst they did, when gentle <hi>Orpheus</hi> sung:</l>
+               <l>As when the Actors of some Enterlude,</l>
+               <l>Which please the senses of the multitude,</l>
+               <l>Are backt by the Spectators of the play</l>
+               <l>With a wisht laughter, or a Plaudite:</l>
+               <l>So with vnperfect voyces all the rout</l>
+               <l>Grace this opinion with a loftie shout.</l>
+               <l>(Like <hi>Bacchus</hi> priests whom <hi>Strymons</hi> banks rebound,<note place="margin">
+                     <hi>Strymon</hi> and <hi>Hebrus</hi> riuers in Thracia.</note>
+               </l>
+               <l>Whom the shrill Ecchoes of fleete <hi>Hebrus</hi> sound)</l>
+               <l>Till Fire the eldest sister vp did stand,</l>
+               <l>(And silence made with her imperiall hand)</l>
+               <l>Praising the proiect swore to grace the same</l>
+               <l>With actiue powers of her eternall flame.</l>
+               <l>Aire likewise promist she would rarefie</l>
+               <l>The earthly drosse to simple puritie,</l>
+               <l>And caus'd her skipping Meteors to addresse</l>
+               <l>Their gifts of light, and iocund nimblenesse,</l>
+               <l>Her cloudes from heau'nly flood-gates manuring</l>
+               <l>The ground, where this expected herb should spring.</l>
+               <l>Water refus'd her vertues to inspire,</l>
+               <l>Least she should quench the hope of future fire,</l>
+               <l>Yet did the seruants of her excellence</l>
+               <l>Offer each one their best parts quintessence:</l>
+               <l>The Icy waues were all with Christall fraught:</l>
+               <l>The <hi>Magellanick</hi> sea her vnions brought:</l>
+               <pb facs="tcp:176962:9"/>
+               <l>
+                  <hi>Tagus</hi> with golden gifts doth proudly rise,</l>
+               <l>And doth the famous <hi>Indian</hi> rills despise:</l>
+               <l>
+                  <hi>Eridanus</hi> his pearl'd <hi>Electrum</hi> gaue:</l>
+               <l>
+                  <hi>Euripus</hi> the swift fluxure of his waue:</l>
+               <l>From <hi>British</hi> seas doth holesome Corall come:</l>
+               <l>The <hi>Danish</hi> gulfe doth send her <hi>Succinum:</hi>
+               </l>
+               <l>And each this hoped embryon dignifies</l>
+               <l>With offring of a seu'rall sacrifice.</l>
+               <l>The earth her selfe at last did procreate</l>
+               <l>This herbe composed in despite of fate,</l>
+               <l>And charged eu'ry countrie, and each hill</l>
+               <l>A speciall power into this leafe distill,</l>
+               <l>Which thus adorn'd, by holy fire inflam'd</l>
+               <l>Sweete life and breath within that carkasse fram'd:</l>
+               <l>And had not <hi>Tellus</hi> temper'd too much mud,</l>
+               <l>Too much terrene corruption in the bud,</l>
+               <l>The man that tasted it should neuer die,</l>
+               <l>But stand in records of eternitie:</l>
+               <l>And as the ashes of the <hi>Phoenix</hi> burn'd</l>
+               <l>Into another liuing bird are turn'd,</l>
+               <l>So should the man, that takes this sacred fume,</l>
+               <l>Another life within himselfe resume:</l>
+               <l>
+                  <note place="margin">
+                     <hi>Iolaus</hi> was the only man that euer had two liues.</note>So <hi>Iolaüs,</hi> when his first was done,</l>
+               <l>His second life was of <hi>Tabacco</hi> spunne.</l>
+               <l>Some say for this <hi>Ioue</hi> vexed at the heart</l>
+               <l>Did hide it long from the worlds better part:</l>
+               <l>Hence came that former ages neuer knew</l>
+               <l>The goods, that by this seeming weede accrue.</l>
+               <l>Till as the <hi>Graces</hi> trauail'd through the earth,</l>
+               <l>Giuing to men their gifts of heau'nly mirth,</l>
+               <l>At last when they into <hi>Americk</hi> came,</l>
+               <l>Drawne by the strange delights, and countries fame,</l>
+               <pb facs="tcp:176962:9"/>
+               <l>They in the palace of great <hi>Mutezume</hi>
+                  <note place="margin">
+                     <hi>Mutezume</hi> was King of the West Indies, when <hi>Cortez</hi> first arriued there.</note>
+               </l>
+               <l>Were entertain'd with this celestiall fume:</l>
+               <l>Where they forgetting all their wonted pleasure,</l>
+               <l>Imbrac't with ioy this truest <hi>Indian</hi> treasure,</l>
+               <l>And there remaining did no more respect</l>
+               <l>Our petie world with nought but trifles deckt.</l>
+               <l>So the faire <hi>Graces,</hi> which were wont to sport</l>
+               <l>Amid our louing feasts, and sweete resort,</l>
+               <l>Were now secluded from our lucklesse eyes,</l>
+               <l>And in their place did braules and quarrels rise,</l>
+               <l>All friendship banisht from false <hi>Europes</hi> sight,</l>
+               <l>Where flattring lurkt in stead of deare delight.</l>
+               <l>Till we poore soules in many troubles tost,</l>
+               <l>Seeking the <hi>Graces</hi> which we erst had lost,</l>
+               <l>When we had often sought them farre and neere,</l>
+               <l>After great paine and trauaile found them there.</l>
+            </lg>
+            <lg>
+               <l>Others doe tell a long and serious tale</l>
+               <l>Of a faire Nymph that sported in the vale,</l>
+               <l>Where <hi>Cipo</hi> with his siluer streames doth goe</l>
+               <l>Along the valleyes of <hi>Wingandekoe,</hi>
+                  <note place="margin">
+                     <hi>Wingandekoe</hi> is a counttey in the North part of <hi>Ameri<g ref="char:EOLhyphen"/>ca,</hi> called by the Queene <hi>Virginia.</hi>
+                  </note>
+               </l>
+               <l>(Which now a farre more glorious name doth beare,</l>
+               <l>Since a more beautious Nymph was worshipt there)</l>
+               <l>There in a greene bowre did this Maiden dwell,</l>
+               <l>Where pretie waues of a delicious well</l>
+               <l>Leapt at her sight, and with a faint rebound</l>
+               <l>Bubbled sweete Musicke with a daintie sound.</l>
+               <l>(This fountaine as a Nymph did whilome range,</l>
+               <l>Till by her prayers the Gods her forme did change,</l>
+               <l>When <hi>Cipo</hi> sought her chastities abuse,</l>
+               <l>As <hi>Alpheus</hi> did to virgin <hi>Arethuse</hi>)</l>
+               <l>There dwelt this Nymph, which with her feature daunted</l>
+               <l>The soueraigne Gods, and mortall men inchaunted.</l>
+               <pb facs="tcp:176962:10"/>
+               <l>So full she was of most delightfull grace,</l>
+               <l>That by the modell of her beautious face</l>
+               <l>
+                  <hi>Ioue</hi> was about to build the heau'n anew,</l>
+               <l>And change the azure to a ruddie hew,</l>
+               <l>And pull the starrie lights from out the skies,</l>
+               <l>Leauing but two in likenes of her eyes:</l>
+               <l>But when the Fates so great a change forbade,</l>
+               <l>In imitation of her red he made</l>
+               <l>A ruddie night before a ioyfull day,</l>
+               <l>And by her white he fram'd the milk-white way:</l>
+               <l>Her golden threeds were so inchaunting faire,</l>
+               <l>Men scorn'd the Sunne to gaze vpon her haire,</l>
+               <l>
+                  <hi>Phoebus</hi> asham'd of this immur'd his beames</l>
+               <l>Within the cincture of the Ocean streames:</l>
+               <l>Whereat <hi>Ioue</hi> angrie sent swift <hi>Mercurie,</hi>
+               </l>
+               <l>Who to the palace of the Sunne did hie.</l>
+               <l>Now the Sunnes Court was glorious to behold,</l>
+               <l>Supported with strong pillers of bright gold,</l>
+               <l>The top of Iu'ry was, the doores of plate,</l>
+               <l>Where <hi>Vulcan</hi> did so liuely imitate</l>
+               <l>The heau'n, the earth, the sea, the ayre, the flame,</l>
+               <l>That heau'n, and earth, and sea enui'd the frame.</l>
+               <l>Thither came <hi>Hermes,</hi> and with lowring cheare</l>
+               <l>Cited the Sunne in person to appeare</l>
+               <l>Before the Gods to tell his cause of stay,</l>
+               <l>Why he so long did dallie with the sea.</l>
+               <l>
+                  <hi>Phoebus</hi> obey'd, and when the Gods were met,</l>
+               <l>And eu'ry one in wonted order set,</l>
+               <l>A way was made by the fierce God of warre,</l>
+               <l>And <hi>Pluto</hi> brought the pris'ner to the barre,</l>
+               <l>
+                  <note place="margin">The G<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>sse <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nce.</note>Whom <hi>Suada Ioues</hi> Sollicitour accus'd,</l>
+               <l>That he his light and vertue had abus'd,</l>
+               <pb facs="tcp:176962:10"/>
+               <l>That whereas he had sworne by feared <hi>Styx,</hi>
+               </l>
+               <l>When <hi>Ioue</hi> the seale did to his patent fixe,</l>
+               <l>That he would neuer in one place be found,</l>
+               <l>But restlesse runne about the massie round:</l>
+               <l>This solemne oth he had not duly kept,</l>
+               <l>But in his strumpet <hi>Thetis</hi> lap had slept.</l>
+               <l>Here <hi>Ioue</hi> did <hi>Suadaes</hi> accusation breake,</l>
+               <l>And beckning gaue <hi>Apollo</hi> leaue to speake.</l>
+               <l>You Gods (quoth he) that here as Iudges sit,</l>
+               <l>I seeke not to defend my cause by wit,</l>
+               <l>My chiefest plea is specchlesse eloquence,</l>
+               <l>Grounded vpon my spotlesse innocence:</l>
+               <l>Yet if I pleas'd to winne eternall glorie</l>
+               <l>By the sweete cadence of mine Oratorie,</l>
+               <l>I could reuiue the dead, and heale the sick</l>
+               <l>By fluence of celestiall Rhetorick:</l>
+               <l>The pleasant Musick of the heau'nly spheres</l>
+               <l>Should pleade my cause to your attentiue eares:</l>
+               <l>But with plaine termes shall my iust act be tride.</l>
+               <l>(Who laies on colours doth the substance hide)</l>
+               <l>I doe not make a night as long as three</l>
+               <l>To dallie with my loue in iollitie,</l>
+               <l>(And yet I might as well such dalliance proue,</l>
+               <l>As <hi>Ioue</hi> at <hi>Thebes</hi> for his <hi>Alcmenaes</hi> loue)</l>
+               <l>Nor my bright face in liquid teares doe steepe,</l>
+               <l>Though my sonnes fall haue giu'n me cause to weep:</l>
+               <l>But on the earth there is a greater light,</l>
+               <l>Which with her raies doth equall day and night:</l>
+               <l>Once from my couch I was about to rise,</l>
+               <l>But straight this brighter lampe strooke blind mine eyes:</l>
+               <l>My sister <hi>Luna</hi> when the night drew nie,</l>
+               <l>Hath been as loth to shew her light as I:</l>
+               <pb facs="tcp:176962:11"/>
+               <l>Nor can our splendent glorious lamps compare</l>
+               <l>With her two lamps that farre more glorious are:</l>
+               <l>And my <hi>Aurora</hi> hides her face away,</l>
+               <l>Sleeping with her <hi>Tithonus</hi> all the day,</l>
+               <l>And when she once beheld this radiant face,</l>
+               <l>Hath euer since blusht at her owne disgrace:</l>
+               <l>The Sphaeres of Planets with a sudden chaunge</l>
+               <l>Make her the center of their circled raunge:</l>
+               <l>And all the heau'nly Orbes doe disagree</l>
+               <l>What part should oft'st in her <hi>Horizon</hi> bee:</l>
+               <l>And mortall men colour and light despise,</l>
+               <l>Esteeming her the obiect of the eyes:</l>
+               <l>While she (as women be) proud of her honour,</l>
+               <l>Makes the night day that men may gaze vpon her:</l>
+               <l>
+                  <hi>Ioue</hi> hearing this dismist the Court in hast,</l>
+               <l>And in a sillie shepheards weedes debas't,</l>
+               <l>Shrowded with clowdes downe from the heau'n did slide,</l>
+               <l>And piping sate vpon a mountaines side:</l>
+               <l>
+                  <note place="margin">A riuer in Vir<g ref="char:EOLhyphen"/>ginia.</note>(Which <hi>Occams</hi> rolling current ouer-peares,</l>
+               <l>Descending from a faire <hi>Pastoraes</hi> teares,</l>
+               <l>Who now a marble stone, yet weepeth still</l>
+               <l>To see her louer changed to a hill,</l>
+               <l>Whom iealous <hi>Phoebus</hi> did by force remoue,</l>
+               <l>Brooking no riuall in his feruent loue,</l>
+               <l>Framing high pines of his inticing locks,</l>
+               <l>Changing his teeth to Adamantine rocks)</l>
+               <l>Thither from heau'n great <hi>Ioue</hi> did hie apace,</l>
+               <l>And sate on the transformed shepheards face.</l>
+               <l>So sweetly sounded his melodious notes,</l>
+               <l>That sheepe and shepheards in their homely cotes</l>
+               <l>Daunc't to his layes, and following the sound</l>
+               <l>Did clime the steepe hill with a solemne round:</l>
+               <pb facs="tcp:176962:11"/>
+               <l>Among those flocks the beautious Nymph did pace,</l>
+               <l>Whose snowy neck vied beauties with her face,</l>
+               <l>(Nor would it in so sweete a combat yield,</l>
+               <l>Had not her ample forehead wonne the field)</l>
+               <l>And on that pole doth stand the orbe of loue,</l>
+               <l>Where <hi>Cupid</hi> in eccentrick rounds doth moue,</l>
+               <l>And now from her faire eyes his shafts doth dart,</l>
+               <l>Then from her lips, and straight from euery part:</l>
+               <l>Sweet roseall lips, doores to those sacred places,</l>
+               <l>The gorgeous temples of the glorious graces,</l>
+               <l>Which gates of Rubie, when they op'ned were,</l>
+               <l>A shrine of pearle and christall did appeare,</l>
+               <l>From whence delicious Oracles were spoken,</l>
+               <l>Which pleasing wonders did to all betoken,</l>
+               <l>Nor is the murmure of <hi>Cecropian</hi> Bees,</l>
+               <l>Nor songs of birds vpon the ayrie trees,</l>
+               <l>Nor the swift riuer falling downe the steepe,</l>
+               <l>Lulling poore shepheards with a carelesse sleepe,</l>
+               <l>(Where Nature with her melodie amazeth</l>
+               <l>The sillie flocke that on the greene bankes grazeth)</l>
+               <l>Equiualent with that celestiall sound,</l>
+               <l>From whence they say Musicke receiu'd her ground:</l>
+               <l>And first from her did <hi>Linus</hi> learne to sing,</l>
+               <l>And with the sweete touch of a pleasing string</l>
+               <l>Did imitate the playing of the aire</l>
+               <l>With golden wires of her disheueled haire:</l>
+               <l>Her countenance was so Angelike bright,</l>
+               <l>That the pure starres were blinded at her sight,</l>
+               <l>And euer since their lights so dazled were,</l>
+               <l>That they were forc't to twinkle in their Sphere:</l>
+               <l>Her hands were framed like a pretie gin</l>
+               <l>Ordain'd to catch, and hold all pleasure in:</l>
+               <pb facs="tcp:176962:12"/>
+               <l>And euery part a feruent loue did teach,</l>
+               <l>Yet she her selfe aboue loues wanton reach:</l>
+               <l>A Coronet she wore, she whilome wonne</l>
+               <l>Striuing for beautie with the radiant Sunne,</l>
+               <l>Which mightie <hi>Phoebus</hi> caus'd the Houres to make</l>
+               <l>With cunning labour for <hi>Leucothoes</hi> sake,</l>
+               <l>This curious worke with <hi>Indian</hi> pearles was grac't,</l>
+               <l>Wherein the loues of Gods and men were plac't:</l>
+               <l>There <hi>Neptune</hi> in a pretious Margarite</l>
+               <l>Did woe and winne the beautious <hi>Amphitrite:</hi>
+               </l>
+               <l>There <hi>Iphis</hi> did in humble sort obey</l>
+               <l>The cruell frownes of <hi>Anaxarete:</hi>
+               </l>
+               <l>And Princes loues in arts affections clad,</l>
+               <l>Excell'd the passions they by nature had.</l>
+               <l>Thus deckt by art and nature did she come,</l>
+               <l>Whose feature strook the seeming shepheard dumbe,</l>
+               <l>Nor could his wan'ring thoughts thēselues containe,</l>
+               <l>But now left off, and straightway pip'd againe:</l>
+               <l>Sometimes his notes he with shrill tunes did raise</l>
+               <l>To chaunt aloud the skipping Roundelaies:</l>
+               <l>And then againe his lowly voyce did fall</l>
+               <l>To sing a pleasant homely Pastorall:</l>
+               <l>And eu'ry song to the Nymphs honour was</l>
+               <l>Like shepheards musicke to a countrey Lasse:</l>
+               <l>Lik'ning her eyes vnto the glimsing light,</l>
+               <l>That guides poore heardsmen to their home at night:</l>
+               <l>Her haire vnto the golden flowres that grow</l>
+               <l>Along the fragrant banks of siluer <hi>Po:</hi>
+               </l>
+               <l>Her lips to waxe by curious workmanship</l>
+               <l>Form'd as a paterne to each other lip:</l>
+               <l>Thus sung he, till the black and shadie night</l>
+               <l>With vgly forme did feare away the light,</l>
+               <pb facs="tcp:176962:12"/>
+               <l>And <hi>Hesperus,</hi> that stands as euening scout,<note place="margin">The euening starre.</note>
+               </l>
+               <l>Began to leade the starrie ring about,</l>
+               <l>(Which durst not in her spangled suite appeare,</l>
+               <l>As long as mightie <hi>Titans</hi> light was neere,</l>
+               <l>By reason of some euerlasting iarres,</l>
+               <l>That did arise twixt <hi>Phoebus</hi> and the starres)</l>
+               <l>Then all the Shepheards wearie of the Sunne,</l>
+               <l>And glad that the laborious day was done,</l>
+               <l>Began to driue their tender flocks away,</l>
+               <l>But <hi>Ioue</hi> did force this sillie maide to stay,</l>
+               <l>Telling her stories how the force of loue</l>
+               <l>Had bow'd the hearts of Gods that dwelt aboue:</l>
+               <l>How <hi>Ioue</hi> orecome by this celestiall power,</l>
+               <l>Deceiu'd poore <hi>Danae</hi> in a golden shower:</l>
+               <l>How with laments and teares <hi>Apollo</hi> rued</l>
+               <l>Faire <hi>Daphnes</hi> change, whom he so fast pursued:</l>
+               <l>Hereat she blusht and to depart she stroue;</l>
+               <l>But all in vaine against the force of <hi>Ioue.</hi>
+               </l>
+               <l>This saw the night and glad she was to see</l>
+               <l>So fit reuenge for the great iniurie,</l>
+               <l>Wherewith <hi>Ioue</hi> wrong'd her at* <hi>Alcides</hi> birth,<note place="margin">Hercules.</note>
+               </l>
+               <l>Making her watch three daies vpon the earth:</l>
+               <l>Therefore in hast the darke malicious night</l>
+               <l>To iealous <hi>Iuno</hi> doth relate this sight:</l>
+               <l>
+                  <hi>Iuno</hi> enrag'd with threatning speeches storm'd,</l>
+               <l>And the poore maide into an herbe transform'd:</l>
+               <l>Which <hi>Ioue</hi> perceiuing by a vaine embrace</l>
+               <l>The infant herbe with heau'nly powers did grace,</l>
+               <l>And on the night he did inflict this paine,</l>
+               <l>That while the pleasant Summer did remaine,</l>
+               <l>The lucklesse night should haue but small command,</l>
+               <l>But in the frostie winter longest stand.</l>
+               <pb facs="tcp:176962:13"/>
+               <l>Yet could not <hi>Ioue</hi> forget his former loue,</l>
+               <l>But ioyning earthly powers, and powers aboue,</l>
+               <l>Therewith he did adorne this glorious bud,</l>
+               <l>And fram'd it as a <hi>Micro-cosme</hi> of good,</l>
+               <l>Making the ground where this sweet plant did spring</l>
+               <l>To be a cordiall gainst each noysome thing,</l>
+               <l>Endu'd with force all euils to asswage,</l>
+               <l>And now began the famous golden age.</l>
+               <l>No publike bond of law, no priuate oth</l>
+               <l>Was needfull to the simple faith and troth:</l>
+               <l>Each had a censure in his owne consent</l>
+               <l>Without the feare of death or punishment:</l>
+               <l>Nor did the busie Client feare his cause,</l>
+               <l>Nor in strong brasse did they engraue their lawes,</l>
+               <l>Nor did the doubtfull parties faintly tremble,</l>
+               <l>While the brib'd Iudge did dreadful looks dissemble:</l>
+               <l>Then safe from harme the vaunting Pine did stand,</l>
+               <l>And had no triall of of the Shipwrights hand,</l>
+               <l>But stood vpon the hill where first it grew,</l>
+               <l>Nor yet was forc'd another world to view:</l>
+               <l>Nor vnto greedie Merchants yet were knowne</l>
+               <l>The shores of any land beyond their owne:</l>
+               <l>Eu'ry defencelesse Citie then was sure,</l>
+               <l>Nor could deepe ditches make it more secure:</l>
+               <l>The harmelesse thoughts of that blest age did beare</l>
+               <l>No warlike Trumpet, Cornet, Sword, or Speare,</l>
+               <l>No furious Souldier needed to defend</l>
+               <l>The carelesse folke, which quiet liues did spend,</l>
+               <l>Nor did ambitious Captaines know the way</l>
+               <l>To passe the cliffie shores of their owne sea:</l>
+               <l>The earth yet free from any forc'd abuse</l>
+               <l>Brought forth all things fit for each creatures vse,</l>
+               <pb facs="tcp:176962:13"/>
+               <l>Without the helpe of any humane care,</l>
+               <l>Vntoucht by harrow, and vncut by share,</l>
+               <l>And mortall men vpon those meates did feede,</l>
+               <l>Which of themselues did from the earth proceede,</l>
+               <l>The mountaine Strawberie, and bitter Sloe,</l>
+               <l>And Mulberies which on rough boughs doe grow,</l>
+               <l>And homely Akornes, which did whilom fall</l>
+               <l>From the high trees, which <hi>Ioue</hi> his owne doth call:</l>
+               <l>The pleasant yeare was an eternall spring,</l>
+               <l>Where Westerne winds continual flowres did bring:</l>
+               <l>The fertile earth vnmanur'd and vntild,</l>
+               <l>The bounteous gift of plenteous corne did yeeld:</l>
+               <l>Nor did the field renew'd each seu'rall yeare</l>
+               <l>Make windy sounds with many a waightie eare:</l>
+               <l>Brookes did with Milke, and pleasant <hi>Nectar</hi> goe,</l>
+               <l>And yellow hony from the trees did flow:</l>
+               <l>Al good without constraint, heau'n, sea, men, ground,</l>
+               <l>No gold, no ship, no law, no plough, no bound.</l>
+               <l>Till <hi>Proserpine</hi> by this abused flame,</l>
+               <l>(Striuing to purchase an immortall name)</l>
+               <l>Reueng'd with raging fire her ancient spite</l>
+               <l>On <hi>Tellus</hi> and the scornefull * <hi>Amphitrite:</hi>
+                  <note place="margin">The Goddesse of the sea.</note>
+               </l>
+               <l>(Which oft had mockt her mansion place of hell,</l>
+               <l>And call'd it darksome hole, and duskie cell)</l>
+               <l>Therefore the Furies she in hast commands</l>
+               <l>To burne the fruitfull earth with fierie brands,</l>
+               <l>And when their hands such instruments did want,</l>
+               <l>She made them torches of this sacred plant:</l>
+               <l>By which they fir'd the world, and that once done,</l>
+               <l>About the earth in raging sort they runne,</l>
+               <l>And euer since they by these flames did cause</l>
+               <l>Famine, dissention, plagues, and breach of lawes.</l>
+               <pb facs="tcp:176962:14"/>
+               <l>(Yet was the hellish Queene with feare distract,</l>
+               <l>Least <hi>Ioue</hi> should know and punish this foule fact:</l>
+               <l>Therefore she hir'd the Poets long agone</l>
+               <l>To cast the fault vpon poore <hi>Phaëton</hi>)</l>
+               <l>Now when this honour'd herbe was once abus'd,</l>
+               <l>All paines, all plagues were on the world infus'd,</l>
+               <l>And then the wicked iron age began,</l>
+               <l>Shame, truth, and faith from earthly mansions ran,</l>
+               <l>And in their place came fraud, and cloked vice,</l>
+               <l>Treason, and force, and impious auarice:</l>
+               <l>The Mariner whom hope of lucre blinds,</l>
+               <l>Hasts to the sea vnexpert in the winds,</l>
+               <l>And trees that long had stood on mountaines high,</l>
+               <l>As ships vpon the vncouth waues doe lie:</l>
+               <l>The Merchant then the boistrous sea did plow,</l>
+               <l>Spite of the frowne of <hi>Neptunes</hi> angrie brow,</l>
+               <l>Nor could the horrour of one iourneyes paine</l>
+               <l>Feare greedie thoughts from ventring so againe:</l>
+               <l>
+                  <hi>Neptune</hi> then grieued with the wounds and dints,</l>
+               <l>Which in his face this curious worke emprints,</l>
+               <l>
+                  <note place="margin">The Goddesse to whom the Pine is dedi<g ref="char:EOLhyphen"/>cated.</note>(And mou'd with * <hi>Cybels</hi> outcries, which did frowne</l>
+               <l>To see her hils defac'd, and Pines puld downe,</l>
+               <l>And Natures plaints, whose lawes it had beguil'd)</l>
+               <l>Made the Sea stormie, which before was mild:</l>
+               <l>Since which the ribs of broken ships doe show,</l>
+               <l>What hurts and dangers by this engine grow,</l>
+               <l>Which makes each fertile countrie want the more,</l>
+               <l>By seeming Steward of each countries store.</l>
+               <l>Now did the warie reaper with long bounds</l>
+               <l>Deuide to portions the vnited grounds,</l>
+               <l>Which erst were common to each mortall wight,</l>
+               <l>As is the liquide ayre, or pleasant light:</l>
+               <pb facs="tcp:176962:14"/>
+               <l>Nor did they onely take the needfull corne,</l>
+               <l>And daily food, which from the earth was borne,</l>
+               <l>But to the bowels of their mother sought,</l>
+               <l>And cursed riches from the center brought,</l>
+               <l>Which the wise earth had couer'd vnespide,</l>
+               <l>And neere vnto the <hi>Stygian</hi> waues did hide.</l>
+               <l>First then began the phrases, Mine, and Thine:</l>
+               <l>Pure water turn'd to artificiall wine:</l>
+               <l>Pleasure vnknowne, and more then simple mirth</l>
+               <l>Start vp with gold from out the mangled earth:</l>
+               <l>Then bounds, then contracts at a racking price,</l>
+               <l>And from those bounds sprung boundlesse auarice:</l>
+               <l>Then hurtfull steele the workmans hand did feele,</l>
+               <l>And gold more hurtfull then the hurtfull steele:</l>
+               <l>And when both these were comen to perfect growth,</l>
+               <l>Frō thence came warre, that fights with help of both:</l>
+               <l>Then did the souldier, which in battell stands,</l>
+               <l>Shake glittring weapons with his bloodie hands:</l>
+               <l>All liu'd by wrong: each friend his friend did feare,</l>
+               <l>And brethren seldome linkt in friendship were:</l>
+               <l>The husband seekes the death of his owne wife,</l>
+               <l>And she againe grieues at her husbands life:</l>
+               <l>The angrie stepdames fearfull poysons make,</l>
+               <l>Which their new husbands hated child may take:</l>
+               <l>And the sonne wearie of his fathers stay,</l>
+               <l>Longs for his death before his fatall day.</l>
+               <l>White Pieties dispersed reliques lie</l>
+               <l>Conquer'd, and spoil'd of earthly dignitie,</l>
+               <l>And then <hi>Astraea</hi> last of heau'nly powers<note place="margin">Iustice.</note>
+               </l>
+               <l>Forsooke the earth reeking with bloodie showers.</l>
+               <l>Yet was not vice ascended to the height:</l>
+               <l>Yet might our pond'rous soules endure the weight</l>
+               <pb facs="tcp:176962:15"/>
+               <l>Of our corrupted flesh: yet might we say</l>
+               <l>The growth of sinnes perfection wants a day:</l>
+               <l>Till the fierce Giants of Viperean birth</l>
+               <l>Made loftie heau'n no more secure then earth,</l>
+               <l>Seeking <hi>Ioues</hi> kingdome by presumptuous warres,</l>
+               <l>Building high mountaines to the trembling starres:</l>
+               <l>But <hi>Ioue</hi> the hils did from <hi>Olympus</hi> tosse,</l>
+               <l>And cast great <hi>Pelion</hi> from the top of <hi>Osse:</hi>
+               </l>
+               <l>And when the furious Giants thus were kild,</l>
+               <l>By the great weight which their own hāds did build,</l>
+               <l>The earth gaue life vnto her childrens blood,</l>
+               <l>And fram'd them liuing bodies of her mud,</l>
+               <l>And (least no signe should of her stocke remaine)</l>
+               <l>She chang'd them to the formes of men againe,</l>
+               <l>Who not degen'rate from their bloodie birth,</l>
+               <l>Defi'd the heauen, and defil'd the earth.</l>
+               <l>Then first ambitious mortals gan to rise,</l>
+               <l>And with vaine pride did the great Gods despise,</l>
+               <l>Still warr'd they with the Gods, still had the worst,</l>
+               <l>And when their hands could do no more, they curst:</l>
+               <l>Nor could the flood that inward spot deface,</l>
+               <l>Still it continued in the humane race,</l>
+               <l>Creeping vnseene, subiecting eu'ry part,</l>
+               <l>Till it possest our chiefest towre, our hart:</l>
+               <l>Which thus infected did a battell wage</l>
+               <l>Gainst the remainders of the golden age.</l>
+               <l>
+                  <note place="margin">Goddesse of wrath and de<g ref="char:EOLhyphen"/>spite.</note>Then cursed <hi>Ate</hi> first began her raigne,</l>
+               <l>And plac't her throne vpon the fluent maine,</l>
+               <l>Ioying to see the billowes in their pride</l>
+               <l>Tosse totter'd ships with perill on each side:</l>
+               <l>Yet sorie <hi>Neptune</hi> should so largely sup,</l>
+               <l>And glad againe, when ought he vomits vp.</l>
+               <pb facs="tcp:176962:15"/>
+               <l>By her hath eu'ry thing corrupted beene</l>
+               <l>From the earths center to the heau'nly Queene:</l>
+               <l>(Which stands aboue the reach of earthly feares,</l>
+               <l>The lowest of the pure celestiall sphaeres)</l>
+               <l>The fertile earth corrupted by these seedes</l>
+               <l>Brought forth vnholesome plants, &amp; fruitlesse weeds:</l>
+               <l>The water not content with her owne bounds,</l>
+               <l>Vsurpt vpon the neere adiacent grounds:</l>
+               <l>The ayre infected did infect the breath,</l>
+               <l>From whence arose the instruments of death:</l>
+               <l>The fire so hid her selfe, that none could see</l>
+               <l>Where her abode or proper place should bee:</l>
+               <l>Then sicknesse came on the infected earth,</l>
+               <l>Some fell in youth, some perisht in their birth,</l>
+               <l>And whereas mortals neuer died before,</l>
+               <l>Till spent with age their lights could burne no more,</l>
+               <l>Now fathers eyes were made a watrie sourse,</l>
+               <l>To wash their sonnes graues in prepost'rous course.</l>
+               <l>And had not the immortall Gods at last,</l>
+               <l>Pitying the sorrowes sillie men had past,</l>
+               <l>Cherisht poore soules with their eternall loue,</l>
+               <l>And sent <hi>Apollo Paean</hi> from aboue,</l>
+               <l>To crosse the purpose which the hag intended,</l>
+               <l>Long since her malice all the world had ended:</l>
+               <l>Yet could not carefull <hi>Phoebus</hi> quite deface</l>
+               <l>The venome <hi>Ate</hi> on the earth did place,</l>
+               <l>Till <hi>Aesculapius</hi> great <hi>Apolloes</hi> sonne</l>
+               <l>(Enuying the glorie shepheard <hi>Pan</hi> had wonne,</l>
+               <l>When of his loue transform'd he did inuent</l>
+               <l>The pleasure of a Musicke instrument)</l>
+               <l>Descri'd this herbe to our new golden age,</l>
+               <l>And did deuise a pipe, which should asswage</l>
+               <pb facs="tcp:176962:16"/>
+               <l>The wounds, which sorrow in our hearts did fixe,</l>
+               <l>More then the sound of flutes, and fiddle-sticks,</l>
+               <l>And by the force thereof (as Poets faine)</l>
+               <l>Brought torne <hi>Hippolytus</hi> to life againe,</l>
+               <l>And watchmen set, and them Phisitians call'd</l>
+               <l>Men, whom the Muses had before enstall'd,</l>
+               <l>Whose carefull soules were by this potion fir'd,</l>
+               <l>And by the power of this sweete herbe inspir'd,</l>
+               <l>Which by the vertue of their sacred hands</l>
+               <l>Deliuer'd men from death, and sicknes bands.</l>
+            </lg>
+            <lg>
+               <l>Others affirme the Gods were ignorant</l>
+               <l>Of the confection of so sweet a plant:</l>
+               <l>For had they knowne this smokes delicious smack,</l>
+               <l>The vault of heau'n ere this time had been black,</l>
+               <l>And by the operation of this fume</l>
+               <l>Been purg'd for euer of her clowdie rheume:</l>
+               <l>Daintie <hi>Ambrosia</hi> with a loth'd disdaine</l>
+               <l>Had been made meate for each milk-pottage-braine:</l>
+               <l>
+                  <hi>Ioues Ganymede</hi> had neuer smelt of drinke,</l>
+               <l>The heau'nly Mazers flowing ore the brinke,</l>
+               <l>Nor fixen <hi>Iuno</hi> euer broke his head</l>
+               <l>For spilling <hi>Nectar</hi> on the gorgeous bed:</l>
+               <l>Gods would haue reueld at their feasts of mirth</l>
+               <l>With the pure distillation of the earth,</l>
+               <l>The marrow of the world, starre of the West,</l>
+               <l>The pearle, whereby this lower Orbe is blest,</l>
+               <l>The ioy of mortals, vmpire of all strife,</l>
+               <l>Delight of nature, <hi>Mithridate</hi> of life,</l>
+               <l>The daintiest dish of a delicious feast,</l>
+               <l>By taking which man differs from a beast.</l>
+               <l>Thrice happie Isles, which steale the worlds delight,</l>
+               <l>And doe produce so rich a Margarite:</l>
+               <pb facs="tcp:176962:16"/>
+               <l>Had but the old Heroick spirits knowne</l>
+               <l>The newes, which fame vnto our eares hath blowne,</l>
+               <l>
+                  <hi>Colchis,</hi> and the remote <hi>Hesperides</hi>
+               </l>
+               <l>Had not been sought for halfe so much as these:</l>
+               <l>Nor had the fluent wits of ancient <hi>Greece</hi>
+               </l>
+               <l>Prais'd the rich apples, or the golden fleece:</l>
+               <l>Nor had <hi>Apolloes</hi> garland been of bayes,</l>
+               <l>Nor <hi>Homer</hi> writ of sweete <hi>Nepenthes</hi> praise:<note place="margin">
+                     <hi>Nepenthes</hi> sig<g ref="char:EOLhyphen"/>nifieth a drink to take away sorow or care.</note>
+               </l>
+               <l>Nor had <hi>Anacreon</hi> with a sugred glose</l>
+               <l>Extold the vertues of the fragrant Rose:</l>
+               <l>Nor needed <hi>Hermes</hi> with his fluent tongue</l>
+               <l>Haue ioin'd in one a rude vnciuill throng,</l>
+               <l>And by perswasions made that companie</l>
+               <l>An order'd Politike societie,</l>
+               <l>When this dumbe Oratour would more perswade,</l>
+               <l>Then all the speeches <hi>Mercurie</hi> had made:</l>
+               <l>Nor honour'd <hi>Ceres</hi> been create diuine,</l>
+               <l>And worshipt so at curious <hi>Eleusine,</hi>
+               </l>
+               <l>Whom blinder ages did so much adorne</l>
+               <l>For the inuention of the vse of corne:</l>
+               <l>Nor <hi>Saturnes</hi> feast had been the ioyfull day,</l>
+               <l>Wherein the <hi>Romanes</hi> washt their cares away,</l>
+               <l>But in the honour of great <hi>Trinidade</hi>
+               </l>
+               <l>A new <hi>Tabacconalia</hi> had been made:</l>
+               <l>Had watrie <hi>Neptune</hi> knowne the force of this</l>
+               <l>He had preuail'd, and <hi>Athens</hi> had been his,</l>
+               <l>His gift the Oliue would as farre exceed,</l>
+               <l>As <hi>Pallas</hi> gift excell'd his trampling steed:</l>
+               <l>Immortall <hi>Chiron</hi> had he knowne this leafe,</l>
+               <l>(Hurt by an arrow of <hi>Alcides</hi> sheafe)</l>
+               <l>Had neuer wisht the troden mortall way,</l>
+               <l>But might haue well been cur'd, and liu'd for aye:</l>
+               <pb facs="tcp:176962:17"/>
+               <l>Had foule <hi>Thersites</hi> with his spitefull hart,</l>
+               <l>Crook'd in each inward, and each outward part,</l>
+               <l>By this <hi>Elixir</hi> been but once refin'd,</l>
+               <l>He would haue chang'd his bodie, and his mind:</l>
+               <l>Or had the Bees that <hi>Platoes</hi> lips did grace,</l>
+               <l>Suckt hony from this sweete Tabacco-place,</l>
+               <l>He had surpast, and stain'd himselfe as farre,</l>
+               <l>As others by his stile obscured are:</l>
+               <l>With this had <hi>Circe</hi> in her pleasant caue</l>
+               <l>Temper'd the potion she <hi>Vlysses</hi> gaue,</l>
+               <l>He neuer would haue wisht, that his blest eyes</l>
+               <l>Might once behold his countries smoke arise:</l>
+               <l>Had ancient Heralds knowne this sacred plant,</l>
+               <l>Of which their lucklesse age was ignorant,</l>
+               <l>When they did giue the worlds most worthie things,</l>
+               <l>As glorious ensignes to victorious Kings,</l>
+               <l>
+                  <hi>Tabacco</hi> had been richer armorie,</l>
+               <l>Then Lions, Crosses, or spread Eaglets be:</l>
+               <l>
+                  <note place="margin">The <hi>Druids</hi> were Priests much reue<g ref="char:EOLhyphen"/>renced among the sauage Britaines and Frenchmen.</note>Did the French * <hi>Druids</hi> liue, and were obey'd,</l>
+               <l>
+                  <hi>Nicot</hi> (that first this herbe to <hi>France</hi> conuey'd)</l>
+               <l>Should be the God of pleasures and delights,</l>
+               <l>Worshipt with pompe on <hi>Bacchanalian</hi> nights,</l>
+               <l>And in his praise the barb'rous Priests would sing</l>
+               <l>Vntuned numbers in a iarring string,</l>
+               <l>Caruing harsh rimes on eu'ry knottie tree,</l>
+               <l>More crookt and rugged, then the booke could bee,</l>
+               <l>Sounding in eu'ry homely verse they frame</l>
+               <l>The treble accent of God <hi>Nicots</hi> name:</l>
+               <l>Had the sage <hi>Chaldees</hi> which did name the stars,</l>
+               <l>And were the first, and best Astronomers,</l>
+               <l>Seene the great wonders, which our eyes haue seene,</l>
+               <l>This plant had then a constellation beene.</l>
+               <pb facs="tcp:176962:17"/>
+               <l>Nor had the honour'd Ramme begun the yeare;</l>
+               <l>Nor the high Northerne pole adorn'd the Beare;</l>
+               <l>Nor <hi>Ioue</hi> disgrac'd, nor with his Minions fild</l>
+               <l>Th'engrauen vault, which first his hands did build:</l>
+               <l>Our herbe had been a Planet, and indu'd</l>
+               <l>With light aboue the greatest magnitude,</l>
+               <l>And when this starre had stood in good aspect</l>
+               <l>With happie Planets of the best effect,</l>
+               <l>He, whom the proud world thē to light should bring,</l>
+               <l>Had been a Poet, or at least a King:</l>
+               <l>
+                  <hi>Saturne</hi> had neuer brag'd his chariot went</l>
+               <l>The next vnto the azure firmament:</l>
+               <l>Nor had the Sunne in his Maiestick pride</l>
+               <l>Been thron'd with equall Planets on each side:</l>
+               <l>Nor for high births had the Astrologer</l>
+               <l>Markt the coniunction of great <hi>Iupiter.</hi>
+               </l>
+               <l>Were my quaint polisht tongue my soules best hopes,</l>
+               <l>And grac't with figures, colours, schemes, and tropes,</l>
+               <l>This herbe would surpasse in excellence</l>
+               <l>The great'st Hyperboles of eloquence:</l>
+               <l>Yet this sweete simple by misordred vse</l>
+               <l>Death or some dang'rous sicknesse may induce,</l>
+               <l>Should we not for our sustentation eate,</l>
+               <l>Because a surfet comes from too much meate?</l>
+               <l>Should we not thirst with mod'rate drinke represse,</l>
+               <l>Because a dropsie springs from such excesse?</l>
+               <l>Should we not take some holesome exercise</l>
+               <l>To chafe our vaines, and stretch our arteries,</l>
+               <l>Because abus'd in a laborious kind</l>
+               <l>It hurts the bodie, and amates the mind?</l>
+               <l>So our faire plant, that doth as needfull stand,</l>
+               <l>As heau'n, or fire, or aire, or sea, or land,</l>
+               <pb facs="tcp:176962:18"/>
+               <l>As Moone, or Starres, that rule the gloomie night,</l>
+               <l>Or <hi>Tullies</hi> friendship, or the Sunnie light,</l>
+               <l>Her sacred vertue in her selfe enroules,</l>
+               <l>And leaues the euill in vaine-glorious soules,</l>
+               <l>And yet who dyes cloid with celestiall breath,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Diagoras</hi> died for ioy.</note>Shall dye with ioy a <hi>Diagorian</hi> death.</l>
+               <l>All goods, all pleasures it in one doth linke,</l>
+               <l>Tis Phisick, clothing, Musick, meate and drinke:</l>
+               <l>It makes the hungrie soules forget their wants,</l>
+               <l>And nimbly daunce like skipping<note n="*" place="margin">
+                     <hi>Cybels</hi> Priests, that daunced much in their sacrifice.</note>
+                  <hi>Corybants:</hi>
+               </l>
+               <l>By force of this <hi>Timon</hi> that odious beast</l>
+               <l>Would haue turn'd iester at each solemne feast,</l>
+               <l>And by one draught of this <hi>Americk</hi> grape</l>
+               <l>Haue been <hi>Laberius</hi> or <hi>Sarmentus</hi> ape:</l>
+               <l>Nor would <note n="*" place="margin">Diogenes.</note>the <hi>Cynick</hi> in his homely tunne</l>
+               <l>Haue askt the shining of the gen'rall Sunne,</l>
+               <l>But had he then this herbes great vertues knowne,</l>
+               <l>He would haue beg'd it of<note n="*" place="margin">Alexander.</note> the <hi>Macedone.</hi>
+               </l>
+               <l>The <hi>Faunes</hi> and <hi>Satyres</hi> which doe lightly praunce,</l>
+               <l>The beasts that after <hi>Orpheus</hi> musick daunce,</l>
+               <l>At sight of this would haue forgot the sound,</l>
+               <l>The <hi>Ecchoes</hi> would no more the voice rebound,</l>
+               <l>
+                  <hi>Orpheus</hi> himselfe would haue forsooke his Lute,</l>
+               <l>And altogether stood amaz'd, and mute.</l>
+               <l>The lumpish <hi>Stoicks,</hi> which did thus decree,</l>
+               <l>A mortall man might without passion bee,</l>
+               <l>Had they once cast their carelesse eyes on this,</l>
+               <l>Would soone haue showne what humane nature is:</l>
+               <l>The <hi>Epicureans,</hi> whose chiefe good was plac't</l>
+               <l>In earthly pleasures vaine voluptuous tast,</l>
+               <l>Had our <hi>Tabacco</hi> in their daies been found,</l>
+               <l>Had built their frame on a more likely ground.</l>
+               <pb facs="tcp:176962:18"/>
+               <l>
+                  <hi>Pyrrho</hi> that held all by opinion stood,</l>
+               <l>Would haue affirm'd this were by nature good:</l>
+               <l>The rude <hi>Laconians,</hi> whom <hi>Lycurgus</hi> care</l>
+               <l>Barr'd from the traffick of exotick ware,</l>
+               <l>Had * <hi>Malea</hi> been with such a treasure fraught,<note place="margin">A Hauen nere <hi>Sparta</hi> among the <hi>Lacaedemo<g ref="char:EOLhyphen"/>nians.</hi>
+                  </note>
+               </l>
+               <l>Would haue esteem'd their strictest acts at nought,</l>
+               <l>And with a slight pretence, or fained cause,</l>
+               <l>Haue crackt the credit of their cobweb lawes.</l>
+               <l>When eloquent <hi>Hegesias</hi> caus'd men die</l>
+               <l>With disputation of liues miserie,</l>
+               <l>Had this life-giuing pleasant potion then</l>
+               <l>Been once imparted to those desp'rate men,</l>
+               <l>It would haue sooner forced them to liue,</l>
+               <l>Then the commaunds great <hi>Ptolomie</hi> could giue:</l>
+               <l>Had <hi>Phoebus Hyacinth,</hi> or faire <hi>Narcissus,</hi>
+               </l>
+               <l>
+                  <hi>Venus Adonis,</hi> or sweete <hi>Cyparissus,</hi>
+               </l>
+               <l>By the propitious Gods been turn'd to this,</l>
+               <l>Happie had been their <hi>Metamorphosis:</hi>
+               </l>
+               <l>Yet it may be to this they were not turn'd,</l>
+               <l>Because their louers grieu'd to see them burn'd:</l>
+               <l>This is the <hi>Opium,</hi> which the <hi>Turks</hi> doe take,</l>
+               <l>When they their hearts would light &amp; iocund make:</l>
+               <l>By this <hi>Medea</hi> did her drinke compose,</l>
+               <l>Which <hi>AEson</hi> did from aged bonds vnlose:</l>
+               <l>You finde not a diuiner herbe then this,</l>
+               <l>In all <hi>Albertus de miraculis:</hi>
+               </l>
+               <l>Or the huge Herbals, which vaine fooles obey,</l>
+               <l>In <hi>Porta, Fuchsius,</hi> and great <hi>Dodoney:</hi>
+               </l>
+               <l>In it Phisitians haue no skill at all,</l>
+               <l>It is an essence <hi>Metaphysicall,</hi>
+               </l>
+               <l>Nor is a thing so exquisite, so pure,</l>
+               <l>Compos'd of any common temp'rature:</l>
+               <pb facs="tcp:176962:19"/>
+               <l>
+                  <note place="margin">
+                     <hi>Scepticks</hi> are those Phisi<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s which deale by searching into nature, but <hi>Empi icks</hi> by experience.</note>Nor can the <hi>Scepticks,</hi> or <hi>Empiricks</hi> see</l>
+               <l>This herbs great vertue, nature and degree:</l>
+               <l>Who takes this med'cine need not greatly care,</l>
+               <l>Who <hi>Galenists,</hi> who <hi>Paracelsians</hi> are:</l>
+               <l>Nor need he seeke their <hi>Rosaries,</hi> their <hi>Summes,</hi>
+               </l>
+               <l>Their <hi>Secrets,</hi> their <hi>Dispensatoriums:</hi>
+               </l>
+               <l>Nor fill his pocket with their costly bils,</l>
+               <l>Nor stuffe his maw with their vnsau'ry pils,</l>
+               <l>Nor make huge pitfals in his tender vaines,</l>
+               <l>With thousand other more then hellish paines,</l>
+               <l>But by this herbes celestiall qualitie</l>
+               <l>May keepe his health in mirth and iollitie:</l>
+               <l>It is the fountaine whence all pleasure springs,</l>
+               <l>A potion for imperiall crowned Kings:</l>
+               <l>He that is master of so rich a store,</l>
+               <l>May laugh at <hi>Croesus,</hi> and esteeme him poore,</l>
+               <l>And with his smokie scepter in his fist</l>
+               <l>Securely flout the toyling <hi>Alchymist,</hi>
+               </l>
+               <l>Who daily labours with a vaine expence</l>
+               <l>In distillations of the quint-essence,</l>
+               <l>Not knowing, that this golden herbe alone</l>
+               <l>Is the Philosophers admired stone:</l>
+               <l>It is your gallants med'cine singular,</l>
+               <l>As Possets to the wearied Ploughman are:</l>
+               <l>
+                  <note n="*" place="margin">The King of the Phaeaciās, whose orchard <hi>Homer</hi> de<g ref="char:EOLhyphen"/>scribes.</note>
+                  <hi>Alcinous</hi> trees, nor the <hi>Isles fortunate</hi>
+               </l>
+               <l>Cannot afford so sweet a delicate:</l>
+               <l>
+                  <hi>Teucer</hi> had neuer purg'd his cares with wine,</l>
+               <l>Had he but dream't of Phisick so diuine:</l>
+               <l>Nor <hi>Bacchus</hi> had been Patrone of delight,</l>
+               <l>Nor gouern'd Tigers with his princely might,</l>
+               <l>Nor conquer'd all the nations of the earth,</l>
+               <l>Because he tam'd their sauage minds with mirth:</l>
+               <pb facs="tcp:176962:19"/>
+               <l>Nor had<note n="*" place="margin">Mercuriall <hi>of</hi> Mercurie, Gen<g ref="char:EOLhyphen"/>tiane <hi>of</hi> Gen<g ref="char:EOLhyphen"/>tius <hi>King of</hi> Il<g ref="char:EOLhyphen"/>lyricum.</note>
+                  <hi>Mercuriall,</hi> or herbe <hi>Gentiane</hi>
+               </l>
+               <l>The glorious names of Gods, or Princes tane:</l>
+               <l>
+                  <hi>Moly</hi> of which the<note n="*" place="margin">Homer.</note> Prince of Poets wrote,</l>
+               <l>
+                  <hi>Spaines</hi> Triacle, or the strongest<note n="*" place="margin">
+                     <hi>Antidote</hi> is a<g ref="char:EOLhyphen"/>ny remedie a<g ref="char:EOLhyphen"/>gainst poyson.</note>
+                  <hi>Antidote,</hi>
+               </l>
+               <l>Is not so good against a Magicke spell,</l>
+               <l>Nor deadly poyson from th'heart t'expell,</l>
+               <l>As our most glorious plant: which had it beene</l>
+               <l>In ancient times, and famous ages seene,</l>
+               <l>The fruitfull Oliue, and sweet-smelling Bayes</l>
+               <l>Had neuer been the signes of peace, and praise:</l>
+               <l>Long since the blessed Thistle, and Herbe-grace</l>
+               <l>Had lost their names, and been accounted base,</l>
+               <l>Had great <hi>Tabacco</hi> pleas'd to shew her powers,</l>
+               <l>As now she doth in this blest age of ours,</l>
+               <l>Blest age, wherein the <hi>Indian</hi> Sunne had shin'd,</l>
+               <l>Whereby all Arts, all tongues haue been refin'd:</l>
+               <l>Learning long buried in the darke abysme</l>
+               <l>Of dunsticall, and monkish barbarisme,</l>
+               <l>When once this herbe by carefull paines was found,</l>
+               <l>Sprung vp like <hi>Cadmus</hi> followers from the ground,</l>
+               <l>Which Muses visitation bindeth vs,</l>
+               <l>More to great <hi>Cortez,</hi> and <hi>Vespucius,</hi>
+                  <note n="*" place="margin">
+                     <hi>Cortez</hi> and <hi>Vespucius</hi> were two that helpt especially to the true know<g ref="char:EOLhyphen"/>ledge of <hi>Ame<g ref="char:EOLhyphen"/>rica.</hi>
+                  </note>
+               </l>
+               <l>Then to our wittie <hi>Mores</hi> immortall name,</l>
+               <l>To <hi>Valla,</hi> or the learned <hi>Rott'rodame:</hi>
+               </l>
+               <l>And our poore tongue, which long had barren laine,</l>
+               <l>Wanting the fall of sweete Parnassian raine,</l>
+               <l>Was lightned by this Planets radiant beames,</l>
+               <l>Which rising from the Westerne ocean streames,</l>
+               <l>Melteth the drie clowdes to celestiall showres,</l>
+               <l>And on our heads those heau'nly fountaines powres:</l>
+               <l>Had the <hi>Castalian</hi> Muses knowne the place,</l>
+               <l>Which this <hi>Ambrosia</hi> did with honour grace,</l>
+               <pb facs="tcp:176962:20"/>
+               <l>They would haue left <hi>Parnassus</hi> long agoe,</l>
+               <l>And chang'd their <hi>Phocis</hi> for <hi>Wingandekoe;</hi>
+               </l>
+               <l>Yet it may be the people voide of sense,</l>
+               <l>With sauage rites, and manners fear'd them thence:</l>
+               <l>But our more glorious Nymph, our moderne Muse,</l>
+               <l>Which life and light doth to the North infuse,</l>
+               <l>Which doth with ioint and mutuall honour grace</l>
+               <l>Her place with learning, learning with her place:</l>
+               <l>In whose respect the Muses barb'rous are,</l>
+               <l>The Graces rude, nor is the <hi>Phoenix</hi> rare:</l>
+               <l>Which farre exceedes her predecessours facts,</l>
+               <l>Nor are their wondrous acts, now wondrous acts:</l>
+               <l>Which by her wisdome, and her Princely powers</l>
+               <l>Defends the walles of <hi>Albions</hi> cliffie towers,</l>
+               <l>Hath vncontrol'd stretcht out her mightie hand</l>
+               <l>Ouer <hi>Virginia,</hi> and the <hi>New-found-land,</hi>
+               </l>
+               <l>And spread the Colours of our <hi>English</hi> Rose</l>
+               <l>In the farre countries, where <hi>Tabacco</hi> growes,</l>
+               <l>And tam'd the sauage nations of the West,</l>
+               <l>Which of this iewell were in vaine possest:</l>
+               <l>Nor is it maruaile that this pretious gem</l>
+               <l>Is thus beset with beasts, and kept by them,</l>
+               <l>When it is likely, that almightie <hi>Ioue,</hi>
+               </l>
+               <l>By such fierce keepers to obscure it stroue,</l>
+               <l>Bearing against it an immortall hate,</l>
+               <l>As the gainsayer of eternall fate:</l>
+               <l>Besides a thousand dangers circle round,</l>
+               <l>What euer good within this world is found,</l>
+               <l>Least mortals should no worke, nor trade professe,</l>
+               <l>But spend their daies in lust, and idlenesse:</l>
+               <l>And least their fickle thoughts should soone disdaine</l>
+               <l>The things they got but with a little paine:</l>
+               <pb facs="tcp:176962:20"/>
+               <l>Therefore best fruites are couer'd with hard shels,</l>
+               <l>The sweetest water is in deepest wels,</l>
+               <l>And <hi>Indian</hi> Ants as big as Mastiues hold</l>
+               <l>A place most fertile of desired gold,</l>
+               <l>
+                  <hi>Sicile</hi> the garner of the earth, her pride</l>
+               <l>Hath <hi>Scylla</hi> and <hi>Charybdis</hi> on each side,</l>
+               <l>And in times past had a plague worse then these,</l>
+               <l>Of the fierce <hi>Cyclops</hi> and <hi>Laestrygones,</hi>
+                  <note place="margin">Fierce people dwelling neere <hi>Sicilie,</hi> of whom <hi>Homer</hi> speakes.</note>
+               </l>
+               <l>The horride Dragon, which did neuer sleepe,</l>
+               <l>The Orchard of the golden fruite did keepe,</l>
+               <l>And in the countries, which be hot and drie,</l>
+               <l>The dreadfull beasts about the fountaines lie,</l>
+               <l>And <hi>Gotthish Spaniards</hi> haue the royaltie,</l>
+               <l>Where glorious gold, and rich <hi>Tabacco</hi> be,</l>
+               <l>A nation worse then the <hi>Laestrygones,</hi>
+               </l>
+               <l>And farre more sauage then the <hi>Sauages:</hi>
+               </l>
+               <l>Yet doth not this diuine <hi>Tabacco</hi> soile,</l>
+               <l>Which shines like a bright Diamond in a foile,</l>
+               <l>And doth as farre excell the golden graines,</l>
+               <l>As gold the brasse, or siluer pewter staines,</l>
+               <l>Although the <hi>Chymists</hi> say, our mother beares</l>
+               <l>Gold in her wombe so many thousand yeares,</l>
+               <l>Ere she can perfect what she hath begunne,</l>
+               <l>And bring to full growth that terrestriall Sunne:</l>
+               <l>And though the * <hi>Theban Lyrick</hi> crown'd with bayes<note place="margin">Pindarus.</note>
+               </l>
+               <l>Begins his Odes with that sweet mettals praise,</l>
+               <l>Yet counteruailes it not this herbs desart,</l>
+               <l>But only shares a yonger brothers part:</l>
+               <l>For this our praised plant on high doth sore</l>
+               <l>Aboue the baser drosse of earthly ore,</l>
+               <l>Like the braue spirit, and ambitious mind,</l>
+               <l>Whose Eaglets eyes the Sunne-beames cannot blind,</l>
+               <pb facs="tcp:176962:21"/>
+               <l>Nor can the clog of pouertie depresse</l>
+               <l>Such soules in base, and natiue lowlinesse,</l>
+               <l>But proudly scorning to behold the earth,</l>
+               <l>They leape at Crownes, and reach aboue their birth:</l>
+               <l>Despised mud sinkes to the center straight,</l>
+               <l>But worthie things will striue to get on height:</l>
+               <l>So our sweete herbe all earthly drosse doth hate,</l>
+               <l>Though in the earth both nourisht, and create,</l>
+               <l>And as the nature is of smoke, and fire</l>
+               <l>Leaues this low orbe, and labours to aspire</l>
+               <l>Wrapt in the cincture of her smokie shroudes,</l>
+               <l>Mixing her vapours with the ayrie cloudes,</l>
+               <l>And from these fumes ascending to the skies,</l>
+               <l>Some say the dewes, and gentle showres arise,</l>
+               <l>And from the fire thereof the <hi>Cyclops</hi> stroue</l>
+               <l>To frame the mightie thunderbolts of <hi>Ioue:</hi>
+               </l>
+               <l>This is a sauour which the Gods doth please,</l>
+               <l>If they doe feed on smoke (as <hi>Lucian</hi> sayes)</l>
+               <l>Therefore the cause that the bright Sunne doth rest</l>
+               <l>At the low point of the declining West,</l>
+               <l>When his oft-wearied horses breathlesse pant,</l>
+               <l>Is to refresh himselfe with this sweet plant,</l>
+               <l>Which wanton <hi>Thetis</hi> from the West doth bring,</l>
+               <l>To ioy her loue after his toilesome ring:</l>
+               <l>For 't is a cordiall for an inward smart,</l>
+               <l>As is <hi>Dictamnum</hi> to the wounded Hart:</l>
+               <l>It is the sponge that wipes out all our woe;</l>
+               <l>'Tis like the thorne that doth on <hi>Pelion</hi> grow,</l>
+               <l>With which who-ere his frostie limbes anoints,</l>
+               <l>Shall feele no cold in his benummed ioints;</l>
+               <l>'Tis like the riuer, which who ere doth tast,</l>
+               <l>Forgets his present griefes and sorrowes past:</l>
+               <pb facs="tcp:176962:21"/>
+               <l>Musick, which causeth vexed thoughts retire,</l>
+               <l>And for a while cease their tormenting fire:</l>
+               <l>Musick the prize, which when the eares haue stole,</l>
+               <l>They doe conuey it to th'attentiue soule:</l>
+               <l>Musick, which forceth beasts to stand at gaze,</l>
+               <l>And doth the rude and senselesse soules amaze:</l>
+               <l>Compar'd to this, is like delicious strings,</l>
+               <l>Which sound but harshly while <hi>Apollo</hi> sings:</l>
+               <l>The braine with this infum'd all quarrell ends,</l>
+               <l>
+                  <hi>Tullie</hi> and <hi>Clodius</hi> will be faithfull friends,</l>
+               <l>And like another <hi>Crassus</hi> one carouse<note place="margin">
+                     <hi>Crassus</hi> was the onely bond (while he li<g ref="char:EOLhyphen"/>ued) of <hi>Caesar</hi> and <hi>Pompeyes</hi> friendship.</note>
+               </l>
+               <l>Will linke againe <hi>Pompey,</hi> and <hi>Caesars</hi> house,</l>
+               <l>And quickly stint the inhumane designes</l>
+               <l>Of furious<note n="*" place="margin">
+                     <hi>Guelphes</hi> and <hi>Gibellines</hi> were a mightie fa<g ref="char:EOLhyphen"/>ction in <hi>Italie.</hi>
+                  </note>
+                  <hi>Guelphes,</hi> and warlike <hi>Gibellines.</hi>
+               </l>
+               <l>The man that shall this smokie Magick proue,</l>
+               <l>Shall need no<note n="*" place="margin">
+                     <hi>Philters</hi> be charmes to obtaine loue.</note>
+                  <hi>Philters</hi> to obtaine his loue,</l>
+               <l>But shall be deckt with farre more pleasing grace,</l>
+               <l>Then ere was <hi>Nireus</hi> or <hi>Narcissus</hi> face.</l>
+               <l>Here could I tell you, how vpon the seas</l>
+               <l>Some men haue fasted with it fortie daies:</l>
+               <l>How those, to whom <hi>Plinie</hi> no mouths did giue,</l>
+               <l>Doe only on diuine <hi>Tabacco</hi> liue:</l>
+               <l>How <hi>Andron,</hi> which did passe the <hi>Lybian</hi> sands</l>
+               <l>Vnto the place where <hi>Hammons</hi> Temple stands,</l>
+               <l>And neuer dranke, nor was he euer dry,</l>
+               <l>Supprest the heate of raging thirst thereby:</l>
+               <l>How a dull <hi>Cynick</hi> by the force of it</l>
+               <l>Hath got a pleasing gesture, and good wit:</l>
+               <l>How sparing <hi>Demea</hi> whom the <hi>Comick</hi> chaung'd,</l>
+               <l>By this was from his former selfe estraung'd:</l>
+               <l>How many Cowards base and recreant,</l>
+               <l>By one pipes draught were turned valiant,</l>
+               <pb facs="tcp:176962:22"/>
+               <l>And after in an artificiall mist</l>
+               <l>Haue ouerthrowne their foes before they wist:</l>
+               <l>How one that dreamt of a <hi>Tabacco</hi> roll,</l>
+               <l>Though sick before, was straight made perfect whole.</l>
+               <l>Peace pratling Muse, offend sage eares no more,</l>
+               <l>Die in the seas which canst not get the shore,</l>
+               <l>And sinke, as ouerwhelm'd with too much matter,</l>
+               <l>Least telling all the world should thinke thee flatter:</l>
+               <l>
+                  <note place="margin">
+                     <hi>Plinie</hi> was burnt search<g ref="char:EOLhyphen"/>ing to know from whence the fire of the hill <hi>Vesuuius</hi> did rise.</note>Doe not, like curious <hi>Plinie,</hi> seeke to know,</l>
+               <l>Whence the earths smoke, and secret flames do grow,</l>
+               <l>Least this immortall fire, and sacred fume,</l>
+               <l>Like to <hi>Vesuuius</hi> doe thy powers consume:</l>
+               <l>But clok'd with vapours of a duskie hue,</l>
+               <l>Bid both the world and thy sweet herbe Adue.</l>
+            </lg>
+            <q>
+               <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176962:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
